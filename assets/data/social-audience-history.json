@@ -630,6 +630,18 @@
         "chat": "@NexusNovaTools",
         "members": 5
       }
+    },
+    {
+      "generated_at": "2026-10-01T10:01:12.972373Z",
+      "facebook": {
+        "configured": false
+      },
+      "instagram": {
+        "configured": false
+      },
+      "telegram": {
+        "configured": false
+      }
     }
   ]
 }
